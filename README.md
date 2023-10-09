@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Hey%20There%20I'm%20Jovian🤖&width=600&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey%20I'm%20Jovian&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 - 👀 I’m interested in robotics ...
 - 🌱 I’m currently working as a Robotics Engineer building mobile robots.
 - 💞️ I’m looking to collaborate on mobile robotics projects.
